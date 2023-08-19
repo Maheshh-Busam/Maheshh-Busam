@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 📫Reach Me:
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mahesh-busam-5a630318b/" target="_blank"><img
+<div> <a href="https://www.linkedin.com/in/mahesh-busam-5a630318b/" target="_blank"><img
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
     <a href="mailto:mahesh.busam2206@gmail.com"><img
@@ -11,16 +11,16 @@
 </div>
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-    <a href="https://www.leetcode.com/https://leetcode.com/Mahesh415/" target="blank"><img
+    <a href="https://leetcode.com/Mahesh415/" target="blank"><img
             src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg"
             alt="https://leetcode.com/Mahesh415/" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/https://codeforces.com/profile/mahesh415" target="blank"><img
+    <a href="https://codeforces.com/profile/mahesh415" target="blank"><img
             src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg"
             alt="https://codeforces.com/profile/mahesh415" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mahesh415/" target="blank"><img
+    <a href="https://auth.geeksforgeeks.org/user/mahesh415/" target="blank"><img
             src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg"
             alt="https://auth.geeksforgeeks.org/user/mahesh415/" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/https://www.codechef.com/users/mahesh415" target="blank"><img
+    <a href="https://www.codechef.com/users/mahesh415" target="blank"><img
             src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg"
             alt="https://www.codechef.com/users/mahesh415" height="30" width="40" /></a>
 </p>
