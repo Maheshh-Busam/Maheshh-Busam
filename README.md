@@ -74,33 +74,13 @@
         alt="Git" width="40" height="40" />
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshh-busam&layout=compact&theme=highcontrast"
-    alt=maheshh-busam />
-
-<p>&nbsp;<img align="center" height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=maheshh-busam&show_icons=true&locale=en&theme=highcontrast"
-        alt="maheshh-busam" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Statistics</h3>
-<div width = "100%">
-    <a href="https://github.com/maheshh-busam">
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheshh-busam&theme=algolia"
-            height="180em" />
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maheshh-busam&theme=algolia"
-            height="180em" />
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheshh-busam&theme=algolia"
-            height="180em" />
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maheshh-busam&theme=react"
-            height="180em" />
-        <img align="center"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshh-busam&theme=react"
-            height="180em" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/maheshh-busam">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheshh-busam&theme=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheshh-busam&theme=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maheshh-busam&theme=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshh-busam&theme=github" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=maheshh-busam&theme=github"/>
