@@ -18,6 +18,9 @@
     <a href="https://auth.geeksforgeeks.org/user/mahesh415/" target="blank"><img
             src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg"
             alt="https://auth.geeksforgeeks.org/user/mahesh415/" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/mahesh415/" target="blank"><img
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            alt="https://auth.geeksforgeeks.org/user/mahesh415/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
